@@ -1,0 +1,14 @@
+{
+  "name": "polymer-bootlicker-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Filipe Araujo <filipe.alves.araujo@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "gulp": "git://github.com/gulpjs/gulp.git#4.0",
+    "gulp-babel": "^6.1.1",
+    "polymer-bootlicker": "0.0.2"
+  }
+}
