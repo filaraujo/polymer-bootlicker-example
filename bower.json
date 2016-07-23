@@ -1,0 +1,21 @@
+{
+  "name": "polymer-bootlicker-example",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Filipe Araujo <filipe.alves.araujo@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/filaraujo/polymer-bootlicker-example",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer#^1.6.0"
+  }
+}
